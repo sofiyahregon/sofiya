@@ -1,0 +1,30 @@
+Website Navigation
+ The website is divided into three main sections: Home, About, and Contact.
+ The Home section is the main landing page for the website. It includes a brief overview of the website and its features.
+ The About section provides more detailed information about the website and its team.
+ The Contact section provides contact information for the website's team.
+
+Content Updates
+ To update the content on the website, you will need to access the website's backend. You can do this by using a web browser to navigate to the website's URL followed by "/admin".
+ Once you have accessed the backend, you will be able to see a list of all of the website's pages. You can edit any of these pages by clicking on the "Edit" button next to the page's name.
+ After you have made your edits, you will need to click on the "Save" button to save your changes.
+
+Dependency Updates
+ The website uses a number of dependencies, including libraries and frameworks. If you need to update any of these dependencies, you will need to access the website's backend. You can do this by using a web browser to navigate to the website's URL followed by "/admin".
+ Once you have accessed the backend, you will be able to see a list of all of the website's dependencies. You can update any of these dependencies by clicking on the "Update" button next to the dependency's name.
+ After you have updated the dependency, you will need to click on the "Save" button to save your changes.
+
+Chatbot Deployment
+ To deploy the chatbot, you will need to access the website's backend. You can do this by using a web browser to navigate to the website's URL followed by "/admin".
+ Once you have accessed the backend, you will be able to see a section called "Chatbot". In this section, you will be able to configure the chatbot's settings.
+ After you have configured the chatbot's settings, you will need to click on the "Deploy" button to deploy the chatbot.
+
+Chatbot Updates
+ To update the chatbot, you will need to access the website's backend. You can do this by using a web browser to navigate to the website's URL followed by "/admin".
+ Once you have accessed the backend, you will be able to see a section called "Chatbot". In this section, you will be able to edit the chatbot's conversation flow.
+ After you have edited the chatbot's conversation flow, you will need to click on the "Save" button to save your changes.
+
+Chatbot Dependencies
+ The chatbot uses a number of dependencies, including libraries and frameworks. If you need to update any of these dependencies, you will need to access the website's backend. You can do this by using a web browser to navigate to the website's URL followed by "/admin".
+ Once you have accessed the backend, you will be able to see a section called "Chatbot". In this section, you will be able to update the chatbot's dependencies.
+ After you have updated the chatbot's dependencies, you will need to click on the "Save" button to save your changes.
